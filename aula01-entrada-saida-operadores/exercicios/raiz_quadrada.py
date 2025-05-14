@@ -1,6 +1,6 @@
 import math
 
-numero = 225
+numero = 1024
 
 raiz_quadrada = math.sqrt(numero)
 
