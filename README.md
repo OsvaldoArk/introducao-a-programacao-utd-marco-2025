@@ -4,5 +4,11 @@
 
 1. Introdução ao Python
 2. Operadores
-3. Comando de entrada e saída
-4. Estruturas de decisão
+   - operadores aritméticos
+   - operadores relacionais
+   - operadores lógicos
+4. Comando de entrada e saída
+   - input
+   - print
+6. Estruturas de decisão
+7. Estruturas de repetição
